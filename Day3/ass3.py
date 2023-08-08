@@ -8,3 +8,7 @@ is_student = True
 
 # Dictionary variable
 person_info = {"name": "Musa", "age": 21, "city": "Mombasa"}
+
+print("Pi:", pi)
+print("Is Student:", is_student)
+print("Person Information:", person_info)

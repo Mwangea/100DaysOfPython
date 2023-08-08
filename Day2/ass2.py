@@ -8,3 +8,5 @@ name = "Musa"
 
 # List variable
 hobbies = ["reading", "coding", "hiking"]
+
+print("Age:", age, "Name:", name, "Hobbies:", ", ".join(hobbies))
